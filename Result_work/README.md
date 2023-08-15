@@ -1,4 +1,4 @@
-# Учебный проект. Определение пола и возраста владельца HTTP cookie.
+# Учебный проект. Определение пола владельца HTTP cookie.
 
 ## Оглавление
 [1. Описание проекта](#Описание-проекта)  
@@ -41,7 +41,7 @@
 
 Данные находятся [по ссылке](https://drive.google.com/file/d/1NW867pOmm2wwnnOf2tkg5c041gi1I5Ol/view?usp=drive_link)
 Так же в нашем распоряжении есть файл о регионах, который находится [здесь](https://drive.google.com/file/d/1JK_dq3PMkQns0c3nx7rQoavfBoCFd4EZ/view?usp=drive_link)
-В процессе работы мы строим графики, которые я сохранила в двух форматах: [html](https://github.com/Eliseykina/sf_data_science/tree/main/project_1/charts/html) и [png](https://github.com/Eliseykina/sf_data_science/tree/main/project_1/charts/png). Графики формата png я вывела в jupiter notebook.
+В процессе работы мы строим графики, которые я сохранила в формате [png](https://github.com/Eliseykina/sf_data_science/tree/main/Result_work/data/graphics/). Графики формата png я вывела в jupiter notebook.
 
 
 ### Этапы работы над проектом 
@@ -74,9 +74,9 @@
 
 
 ### Выводы:  
-Цель достигнута - база была преобразована, исследована и отредактирована. Выводы сделаны. На все промежуточные вопросы ответы были даны верные.
+Цель достигнута - подобрана оптимальная модель машиного обучения, тестовая выборка классифицирована.
 
 [к оглавлению](#Оглавление)
 
 
-[Ссылка на проект](https://github.com/Eliseykina/sf_data_science/tree/main/project_1/)
+[Ссылка на проект](https://github.com/Eliseykina/sf_data_science/tree/main/Result_work/)
